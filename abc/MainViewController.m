@@ -22,7 +22,7 @@
 	
 	[self lianxi1];
 	
-	
+    NSLog(@"说了点开放计算的");
 }
 
 -(void)lianxi1
